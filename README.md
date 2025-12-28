@@ -24,8 +24,8 @@ src/
 ### Base de datos (H2)
 spring.datasource.url=jdbc:h2:file:./data/tareasdb
 spring.datasource.driverClassName=org.h2.Driver
-spring.datasource.username=sa
-spring.datasource.password=
+spring.datasource.username=xx
+spring.datasource.password=xx
 spring.jpa.hibernate.ddl-auto=update
 spring.h2.console.enabled=true
 
@@ -33,7 +33,7 @@ spring.h2.console.enabled=true
 mvn spring-boot:run
 
 ## Urls
-http://localhost:4200/inicio
+http://localhost:8080/
 http://localhost:8080/swagger-ui.html
 
 
