@@ -9,6 +9,7 @@ API REST desarrollada con Spring Boot para la gestión de tareas.
 - H2 / MySQL
 - Maven
 - Swagger / OpenAPI
+- Angular 21
 
 ## Estructura del proyecto
 src/
